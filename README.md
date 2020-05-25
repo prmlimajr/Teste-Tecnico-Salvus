@@ -2,7 +2,7 @@
 
 Foi solicitado a implementação de uma aplicação capaz de criar, ler, atualizar e excluir dados de uma entidade. Foi também desenvolvido um serviço de rotas para que os dados possam ser acessados, seguindo o princípio de uma arquitetura REST.
 
-Não foi solicitado a construção do Front End. O Back End foi desenvolvido em NodeJS, usando o framework Express. Foi usado o banco SQLite para armazenamento dos dados e criação da entidade.
+Não foi solicitado a construção do Front End. O Back End foi desenvolvido em NodeJS, usando o framework Express. O banco de daos escolhido para o desenvolvimento foi o SQLite e foi usado o Knex como query builder.
 
 ## Passo a Passo
 
