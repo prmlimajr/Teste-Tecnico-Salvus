@@ -4,7 +4,13 @@ Foi solicitado a implementação de uma aplicação capaz de criar, ler, atualiz
 
 Não foi solicitado a construção do Front End. O Back End foi desenvolvido em NodeJS, usando o framework Express. Foi usado o banco SQLite para armazenamento dos dados e criação da entidade.
 
-##Passo a Passo
+## Passo a Passo
 
-Baixar o conteúdo do repositório e executar o comando NPM install para instalar as dependências.
+Baixar o conteúdo do repositório e executar o comando npm install para instalar as dependências.
+
+A aplicação se organiza conforme a estrutura de pastas abaixo.
+<img src="./img/01.png">
+
+Para executar a aplicação usa-se o comando npm start. 
+
 
